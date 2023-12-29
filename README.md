@@ -1,5 +1,5 @@
 # networks-HW3
-Файл: QuesT_Homework3_classification_Revak.ipynb
+Файл: QuesT_Homework3_classification_Revak.ipynb  
 Тетрадка АЖ работает до границы в 7 баллов и показывает точность, как была в задании.
 
 # networks-HW2
